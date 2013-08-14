@@ -13,10 +13,14 @@ The second section contains a list of all scenarios used in a suite. For each sc
 
 The generated html document relies on a few js and css files which are included with the code.
 
-**Usage:** behatparser.rb [options]
-    -i, --input inputpath            Path to features folder
-    -o, --output outputfile          Name of the output file
-    -h, --help                       Display this screen
+**Usage:** 
+
+
+    behatparser.rb [options]
+        -i, --input inputpath            Path to features folder
+        -o, --output outputfile          Name of the output file
+        -h, --help                       Display this screen
+
 	
 Example: ruby behatparser.rb -i c:\bdds\features -o out.html
 	
