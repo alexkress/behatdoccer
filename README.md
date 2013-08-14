@@ -3,7 +3,7 @@ behatdoccer
 
 A script that generates a doc of the behat steps and scenarios written in Ruby - why? why not.
 
-The script goes through all feature and step files and generates and HTML document with two main sections.
+The script goes through all feature and step files and generates an HTML document with two main sections.
 
 The first section contains a list of all the steps, for each step the script include the code location as well as the function use to implement it. In addition a link is provided that lists all scenarios where a step is used.
 
